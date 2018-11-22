@@ -1,5 +1,7 @@
 # CG-Lab-Assignments
-Few simple programs of Computer Graphics Lab.
-Each program is running and the respective output screenshots can be seen in the attached file below.
+* Few simple programs of Computer Graphics Lab.
+* Each program is running. 
+* The respective output screenshots have also been attached.
 
-[cg_lab_assignments.pdf](https://github.com/pktparticle/CG-Lab-Assignments/files/2594262/cg_lab_assignments.pdf)
+[CG.pdf](https://github.com/pktparticle/CG-Lab-Assignments/files/2608257/CG.pdf)
+
